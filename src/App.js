@@ -3,7 +3,7 @@ import DashboardPage from './pages/DashBoardPage';
 import PostsPage from './pages/PostsPage';
 import './index.css';
 
-
+//
 // Redux Thunk: Async middleware for Redux
 // Redux Devtools: connects Redux app to Redux DevTools
 // Router has 2 different ways of navigating, Navigate or useNavigate
